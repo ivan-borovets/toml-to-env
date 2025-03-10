@@ -1,0 +1,6 @@
+# POSTGRES
+[postgres]
+USER = "dev-postgres"
+PASSWORD = "dev-changethis"
+DB = "dev-app_pgdata"
+PORT = 5432
