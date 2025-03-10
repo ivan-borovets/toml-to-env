@@ -1,0 +1,8 @@
+# add this file to .gitignore
+
+# POSTGRES
+[postgres]
+USER = "prod-postgres"
+PASSWORD = "prod-changethis"
+DB = "prod-app_pgdata"
+PORT = 5432
